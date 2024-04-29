@@ -21,3 +21,17 @@
 11. Terminate AWS EC2 instance.
 
 ### Petclinic DevSecOps CI/CD stages
+
+<img src="https://github.com/swaleham/Petclinic/blob/main/PetclinicCICD.png">
+
+### Exposing Tomcat server on port 8083
+
+<img src="https://github.com/swaleham/Petclinic/blob/main/Tomcat-Server.png">
+
+### Sonarqube results for code quality checks
+
+<img src= "https://github.com/swaleham/Petclinic/blob/main/SonarqubeResults.png">
+
+### Accessing Real World Petclinic Application
+
+<img src="https://github.com/swaleham/Petclinic/blob/main/RealWorldApp.png">
